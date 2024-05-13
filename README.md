@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning to code in Python, C++, along side HTML and CSS.
 - 💞️ I’m looking to collaborate with anyone willing to learn and grow their skills. I am also very much looking for mentorship.
 - 📫 Here is my linkedin: www.linkedin.com/in/jlnoeuku01
+- 🖥️ Personal Website: https://856bd0e7-0a9e-4128-bbe1-6184858f69e9-00-3bdny1auw7vzo.janeway.replit.dev/
 - ⚡ Fun fact: I speak 3 languages and very much intrested in learning a new language.
+
 
 <!---
 jlnoeuku98/jlnoeuku98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
