@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I speak 3 languages and very much intrested in learning a new language.
 - I am open to any feedback on how to make my work look more presentable and getting ideas on the things I need to work on.
 
+*** Pleasefeel free hun to give me feedbacks on how to improve my work.
+
 
 <!---
 jlnoeuku98/jlnoeuku98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
